@@ -25,7 +25,8 @@ Ou através do meu e-mail: **jessicathauany99@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+Criador do readme: https://rahuldkjain.github.io/gh-profile-readme-generator/
+Perfis bonitos: https://zzetao.github.io/awesome-github-profile/
 jthauany/jthauany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
