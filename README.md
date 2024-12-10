@@ -5,7 +5,7 @@
 
 - 🌱 Aqui você encontra alguns dos projetos desenvolvidos durante meus estudos.
 
-<h3 align="left">Você também pode me econtrar aqui:</h3>
+<h3 align="left">Você também pode me encontrar aqui:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jessicathauany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
