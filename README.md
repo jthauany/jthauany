@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Meu nome é Jéssica</h1>
-<h3 align="center">Sou uma Física apaixonada por ciência de dados!</h3>
+<h3 align="center"> Sou astrofísica, fascinada por entender e explicar o funcionamento das coisas através da análise de dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jthauany&label=Profile%20views&color=0e75b6&style=flat" alt="jthauany" /> </p>
 
